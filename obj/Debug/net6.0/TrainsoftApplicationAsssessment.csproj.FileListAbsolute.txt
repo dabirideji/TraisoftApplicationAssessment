@@ -1,0 +1,15 @@
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\bin\Debug\net6.0\TrainsoftApplicationAsssessment.exe
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\bin\Debug\net6.0\TrainsoftApplicationAsssessment.deps.json
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\bin\Debug\net6.0\TrainsoftApplicationAsssessment.runtimeconfig.json
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\bin\Debug\net6.0\TrainsoftApplicationAsssessment.dll
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\bin\Debug\net6.0\TrainsoftApplicationAsssessment.pdb
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.AssemblyInfoInputs.cache
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.AssemblyInfo.cs
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.sourcelink.json
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.dll
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\refint\TrainsoftApplicationAsssessment.dll
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.pdb
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\TrainsoftApplicationAsssessment.genruntimeconfig.cache
+C:\xampp\htdocs\WORK\TraisoftApplicationAssessment\obj\Debug\net6.0\ref\TrainsoftApplicationAsssessment.dll
